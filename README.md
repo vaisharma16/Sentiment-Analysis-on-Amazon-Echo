@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Amazon-Echo
+# Sentiment Analysis on Amazon Echo/Alexa
 
 Summary of End-to-End NLP Sentiment Analysis Project
 ## Objective:
